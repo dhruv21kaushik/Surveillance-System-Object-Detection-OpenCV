@@ -1,1 +1,1 @@
-
+Download the model weights and place them into your current working directory with the filename “yolov3.weights.” It is a large file and may take a moment to download depending on the speed of your internet connection. You can download the weights from here "https://drive.google.com/file/d/1JOJj1EdtXFzsfBqMmuQ9boWzuQxoh9TT/view?usp=sharing"
